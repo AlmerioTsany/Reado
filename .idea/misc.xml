@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/drawable/ic_book.xml" value="0.1" />
+        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/layout/fragment_bookmark.xml" value="0.1" />
+        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/layout/fragment_home.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_searchview.xml" value="0.213" />
+        <entry key="app/src/main/res/drawable/cursor_text_color.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_bookmark.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_explore.xml" value="0.1205" />
+        <entry key="app/src/main/res/drawable/ic_favorite.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_favorite_border.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_favorite_selector.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1205" />
+        <entry key="app/src/main/res/drawable/ic_toggle_favorite.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/tab_color_selector.xml" value="0.161" />
+        <entry key="app/src/main/res/drawable/tab_indicator.xml" value="0.144" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.23777173913043478" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/layout/fragment_bookmark.xml" value="0.24954710144927536" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_explore.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_list_book.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/row_item_bookmark.xml" value="0.19293478260869565" />
+        <entry key="app/src/main/res/layout/row_item_home_book.xml" value="0.27325134277343754" />
+        <entry key="app/src/main/res/layout/row_item_home_recommendation.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/row_item_home_tab_bar.xml" value="0.23777173913043478" />
+        <entry key="app/src/main/res/layout/row_item_tab_bar.xml" value="0.2545289855072464" />
+        <entry key="app/src/main/res/layout/shimmer_row_item_tab_bar.xml" value="0.2545289855072464" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.28229166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
