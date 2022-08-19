@@ -28,7 +28,7 @@
         android:id="@+id/img_empty_bookmark"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@drawable/empty"
+        android:src="@drawable/no_bookmark"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
