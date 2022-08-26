@@ -3,12 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/drawable/ic_back.xml" value="0.1" />
-        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/drawable/ic_book.xml" value="0.1" />
-        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/drawable/ic_bookmark.xml" value="0.1" />
-        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/layout/fragment_bookmark.xml" value="0.22" />
-        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/layout/fragment_home.xml" value="0.14130434782608695" />
-        <entry key="..\:/Users/almer/StudioProjects/Reado/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/bg_searchview.xml" value="0.213" />
         <entry key="app/src/main/res/drawable/cursor_text_color.xml" value="0.144" />
         <entry key="app/src/main/res/drawable/ic_bookmark.xml" value="0.144" />
